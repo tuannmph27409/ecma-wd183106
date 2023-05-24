@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "name": "Mercedes",
+      "price": "9.999",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Audi",
+      "price": 9.99,
+      "image": "http://www.example.com/image.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ford",
+      "price": 9.99,
+      "image": "http://www.example.com/image.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Lamborghini",
+      "price": 9.99,
+      "image": "http://www.example.com/image.jpg"
+    },
+    {
+      "name": "mec",
+      "price": "123",
+      "id": 5
+    }
+  ]
+}
